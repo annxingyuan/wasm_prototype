@@ -1,7 +1,7 @@
 {
-  "name": "@wasm/empty_c",
-  "description": "",
-  "version": "1.0.0",
+  "name": "wasm-matmul-prototype",
+  "description": "Prototype of matrix multiplication with WASM.",
+  "version": "2018.12.7",
   "scripts": {
     "build": "gulp --gulpfile ./build.ts"
   },
@@ -10,10 +10,5 @@
     "gulp": "~3.9.1",
     "ts-node": "~5.0.0",
     "typescript": "~2.7.2"
-  },
-  "wasmStudio": {
-    "name": "Empty C Project",
-    "description": "# Empty C Project",
-    "icon": "c-lang-file-icon"
   }
 }
