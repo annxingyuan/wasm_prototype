@@ -6,5 +6,5 @@ To run the precompiled WASM binary, launch an HTTP server and open `localhost:${
 
 To modify the WASM source, edit `src/main.c`, then run:
 
-    $ yarn // to install dependencies
+    $ yarn # to install dependencies
     $ yarn build
